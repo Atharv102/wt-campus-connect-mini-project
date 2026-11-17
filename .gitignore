@@ -1,0 +1,10 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+campus-connect-fullstack/node_modules/
+campus-connect-fullstack/client/node_modules/
+campus-connect-fullstack/server/node_modules/
+.npm/
+*.log
+.DS_Store
+Thumbs.db
