@@ -10,11 +10,11 @@ const initialData = {
   users: [
     {
       id: 'u-student-1',
-      username: 'tejas4315',
-      email: 'tejas4315@campusconnect.com',
+      username: 'atharv102',
+      email: 'atharv102@campusconnect.com',
       password: '12345',
       role: 'student',
-      name: 'Tejas Mahamuni'
+      name: 'Atharv Jadhav'
     },
     {
       id: 'u-org-1',

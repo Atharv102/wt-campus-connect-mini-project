@@ -172,7 +172,7 @@ export default function AttendancePage() {
                     </button>
                   </form>
                   <div className="mt-4 small text-muted">
-                    <div>Demo Student: <code>tejas4315</code> / <code>12345</code></div>
+                    <div>Demo Student: <code>atharv102</code> / <code>12345</code></div>
                     <div>Demo Organizer: <code>organizer</code> / <code>admin123</code></div>
                   </div>
                 </div>
